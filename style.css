@@ -1,0 +1,13 @@
+body {
+    background: sandybrown;
+}
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    color: red;
+}
+.test {
+    color: gray;
+    font-size: 20px;
+    font-weight: bold;
+}
